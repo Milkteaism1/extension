@@ -1,0 +1,248 @@
+{
+   "authLoadingMessage": {
+      "message": "đang tải"
+   },
+   "changeSiteAccessButton": {
+      "message": "thay đổi quyền truy cập trang web"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Kiểm tra kết nối internet của bạn."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (đã khóa: cấp 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (đã khóa: cấp 1)"
+   },
+   "deleteAccount": {
+      "message": "xóa tài khoản"
+   },
+   "downloadButton": {
+      "message": "tải xuống"
+   },
+   "emailInputPlaceholder": {
+      "message": "email"
+   },
+   "emailNotFoundMessage": {
+      "message": "Email này chưa được đăng ký."
+   },
+   "emailTakenMessage": {
+      "message": "Email đã được sử dụng."
+   },
+   "extDescription": {
+      "message": "Trình dịch Manga cho tiếng Nhật, Hàn và Trung"
+   },
+   "extName": {
+      "message": "Manga Translator🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Cho chuột hamster máy chủ ăn."
+   },
+   "fetchErrorMessage": {
+      "message": "Trang web này đã chặn các tiện ích mở rộng. Mở khóa bằng ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "gói miễn phí"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (đã khóa: cấp 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (đã khóa: cấp 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Mật khẩu không chính xác."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Vui lòng nhập email và mật khẩu hợp lệ để đăng ký."
+   },
+   "loadingLabel": {
+      "message": "đang tải…"
+   },
+   "localFileAccessMessage": {
+      "message": "Để dịch các tệp cục bộ, hãy bật `Cho phép truy cập vào các URL tệp` trong màn hình tiếp theo. Sau đó làm mới trang."
+   },
+   "lockedTier1Label": {
+      "message": "(đã khóa: cấp 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(đã khóa: cấp 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "đăng nhập"
+   },
+   "logInButton": {
+      "message": "đăng nhập"
+   },
+   "logInButtonIOSAlert": {
+      "message": "Để đăng nhập, hãy mở giao diện tiện ích Manga Translator đến tab 'Đăng nhập'. Đảm bảo Manga Translator được cho phép trên tất cả các trang web trong cài đặt Safari."
+   },
+   "logOutButton": {
+      "message": "đăng xuất"
+   },
+   "mangaFontColorLabel": {
+      "message": "màu phông chữ manga"
+   },
+   "mangaFontStyleLabel": {
+      "message": "kiểu phông chữ manga"
+   },
+   "otherToolsLabel": {
+      "message": "công cụ khác"
+   },
+   "passwordInputPlaceholder": {
+      "message": "mật khẩu"
+   },
+   "queuedMessage": {
+      "message": "Đã vào hàng đợi"
+   },
+   "rateButton": {
+      "message": "đánh giá"
+   },
+   "registerButton": {
+      "message": "đăng ký"
+   },
+   "resetPasswordLink": {
+      "message": "đặt lại mật khẩu"
+   },
+   "selectModelLabel": {
+      "message": "chọn trình dịch"
+   },
+   "serverConnectFailureMessage": {
+      "message": "Không thể kết nối với máy chủ"
+   },
+   "serverDownMessage": {
+      "message": "Máy chủ đang tạm ngừng hoạt động để bảo trì hoặc đang gặp sự cố."
+   },
+   "settingsBottomNavButton": {
+      "message": "cài đặt"
+   },
+   "settingsButton": {
+      "message": "cài đặt"
+   },
+   "siteAccessError": {
+      "message": "Vui lòng đặt Quyền truy cập trang web thành \"Trên tất cả các trang web\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Đặt `Quyền truy cập trang web` thành `Trên tất cả các trang web` nếu không tiện ích sẽ không thể dịch."
+   },
+   "siteAccessErrorMessageSafari": {
+      "message": "Mở cài đặt Safari và cho phép Manga Translator trên tất cả các trang web nếu không tiện ích sẽ không thể dịch."
+   },
+   "siteAccessErrorSafariIOS": {
+      "message": "Để đăng nhập, vui lòng mở Cài đặt > Safari > Tiện ích mở rộng và cho phép Manga Translator trên tất cả các trang web."
+   },
+   "siteAccessErrorSafariMacOS": {
+      "message": "Để đăng nhập, vui lòng mở Tùy chọn Safari (⌘,), chuyển đến tab Tiện ích mở rộng và cho phép Manga Translator trên tất cả các trang web."
+   },
+   "tier1SupporterLabel": {
+      "message": "người ủng hộ cấp 1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "người ủng hộ cấp 2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Bật/tắt dịch"
+   },
+   "toolsBottomNavButton": {
+      "message": "công cụ"
+   },
+   "translateTabToggleLabel": {
+      "message": "dịch tab"
+   },
+   "translateToArabicLabel": {
+      "message": "Tiếng Ả Rập"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "Tiếng Bồ Đào Nha (Brazil)"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "Tiếng Trung (Giản thể)"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "Tiếng Trung (Phồn thể)"
+   },
+   "translateToEnglishLabel": {
+      "message": "Tiếng Anh"
+   },
+   "translateToFrenchLabel": {
+      "message": "Tiếng Pháp"
+   },
+   "translateToGermanLabel": {
+      "message": "Tiếng Đức"
+   },
+   "translateToHindiLabel": {
+      "message": "Tiếng Hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "Tiếng Indonesia"
+   },
+   "translateToItalianLabel": {
+      "message": "Tiếng Ý"
+   },
+   "translateToJapaneseLabel": {
+      "message": "Tiếng Nhật"
+   },
+   "translateToKoreanLabel": {
+      "message": "Tiếng Hàn"
+   },
+   "translateToLabel": {
+      "message": "dịch sang"
+   },
+   "translateToPolishLabel": {
+      "message": "Tiếng Ba Lan"
+   },
+   "translateToPortugueseLabel": {
+      "message": "Tiếng Bồ Đào Nha"
+   },
+   "translateToRussianLabel": {
+      "message": "Tiếng Nga"
+   },
+   "translateToSpanishLabel": {
+      "message": "Tiếng Tây Ban Nha"
+   },
+   "translateToThaiLabel": {
+      "message": "Tiếng Thái"
+   },
+   "translateToVietnameseLabel": {
+      "message": "Tiếng Việt"
+   },
+   "translationModel": {
+      "message": "trình dịch"
+   },
+   "translationPanelInstructions": {
+      "message": "Nhấp và kéo để tạo Bảng Dịch.\n Tất cả hình ảnh bên dưới sẽ được dịch tự động.\n Hãy bao phủ TOÀN BỘ hình ảnh chứ không chỉ các bong bóng thoại!"
+   },
+   "translationPanelLabel": {
+      "message": "bảng dịch"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "Đã xảy ra lỗi không xác định. Kiểm tra kết nối internet của bạn và thử lại sau ít phút."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Mở khóa dịch không giới hạn"
+   },
+   "upgradeButton": {
+      "message": "nâng cấp"
+   },
+   "uploadFilesLabel": {
+      "message": "hoặc %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "tải tệp lên"
+   }
+}

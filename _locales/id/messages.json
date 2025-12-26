@@ -1,0 +1,248 @@
+{
+   "authLoadingMessage": {
+      "message": "memuat"
+   },
+   "changeSiteAccessButton": {
+      "message": "ubah akses situs"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Periksa koneksi internet Anda."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (terkunci: tingkat 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (terkunci: tingkat 1)"
+   },
+   "deleteAccount": {
+      "message": "hapus akun"
+   },
+   "downloadButton": {
+      "message": "unduh"
+   },
+   "emailInputPlaceholder": {
+      "message": "email"
+   },
+   "emailNotFoundMessage": {
+      "message": "Email ini tidak terdaftar."
+   },
+   "emailTakenMessage": {
+      "message": "Email sudah digunakan."
+   },
+   "extDescription": {
+      "message": "Penerjemah manga untuk bahasa Jepang, Korea, dan Mandarin"
+   },
+   "extName": {
+      "message": "Penerjemah Manga🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Beri makan hamster server."
+   },
+   "fetchErrorMessage": {
+      "message": "Situs ini telah memblokir ekstensi. Buka blokir dengan ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "tingkat gratis"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (terkunci: tingkat 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (terkunci: tingkat 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Kata sandi salah."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Harap masukkan email dan kata sandi yang valid untuk mendaftar."
+   },
+   "loadingLabel": {
+      "message": "memuat…"
+   },
+   "localFileAccessMessage": {
+      "message": "Untuk menerjemahkan file lokal, aktifkan `Izinkan akses ke URL file` di layar berikut. Kemudian segarkan halaman."
+   },
+   "lockedTier1Label": {
+      "message": "(terkunci: tingkat 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(terkunci: tingkat 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "masuk"
+   },
+   "logInButton": {
+      "message": "masuk"
+   },
+   "logInButtonIOSAlert": {
+      "message": "Untuk masuk, buka UI ekstensi Penerjemah Manga ke tab 'Masuk'. Pastikan Penerjemah Manga diizinkan di semua situs dalam pengaturan Safari."
+   },
+   "logOutButton": {
+      "message": "keluar"
+   },
+   "mangaFontColorLabel": {
+      "message": "warna font manga"
+   },
+   "mangaFontStyleLabel": {
+      "message": "gaya font manga"
+   },
+   "otherToolsLabel": {
+      "message": "alat lainnya"
+   },
+   "passwordInputPlaceholder": {
+      "message": "kata sandi"
+   },
+   "queuedMessage": {
+      "message": "Dalam antrean"
+   },
+   "rateButton": {
+      "message": "beri nilai"
+   },
+   "registerButton": {
+      "message": "daftar"
+   },
+   "resetPasswordLink": {
+      "message": "atur ulang kata sandi"
+   },
+   "selectModelLabel": {
+      "message": "pilih penerjemah"
+   },
+   "serverConnectFailureMessage": {
+      "message": "Tidak dapat terhubung ke server"
+   },
+   "serverDownMessage": {
+      "message": "Server sedang tidak aktif untuk pemeliharaan sementara atau mengalami masalah."
+   },
+   "settingsBottomNavButton": {
+      "message": "pengaturan"
+   },
+   "settingsButton": {
+      "message": "pengaturan"
+   },
+   "siteAccessError": {
+      "message": "Harap atur akses Situs ke \"Di semua situs\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Atur `Akses situs` ke `Di semua situs` atau ekstensi tidak dapat menerjemahkan."
+   },
+   "siteAccessErrorMessageSafari": {
+      "message": "Buka pengaturan Safari dan izinkan Penerjemah Manga di semua situs atau ekstensi tidak dapat menerjemahkan."
+   },
+   "siteAccessErrorSafariIOS": {
+      "message": "Untuk masuk, silakan buka Pengaturan > Safari > Ekstensi dan izinkan Penerjemah Manga di semua situs."
+   },
+   "siteAccessErrorSafariMacOS": {
+      "message": "Untuk masuk, silakan buka Preferensi Safari (⌘,) ke tab Ekstensi dan izinkan Penerjemah Manga di semua situs."
+   },
+   "tier1SupporterLabel": {
+      "message": "pendukung tingkat 1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "pendukung tingkat 2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Nyalakan/matikan terjemahan"
+   },
+   "toolsBottomNavButton": {
+      "message": "alat"
+   },
+   "translateTabToggleLabel": {
+      "message": "terjemahkan tab"
+   },
+   "translateToArabicLabel": {
+      "message": "Arab"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "Portugis Brasil"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "Mandarin Sederhana"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "Mandarin Tradisional"
+   },
+   "translateToEnglishLabel": {
+      "message": "Inggris"
+   },
+   "translateToFrenchLabel": {
+      "message": "Prancis"
+   },
+   "translateToGermanLabel": {
+      "message": "Jerman"
+   },
+   "translateToHindiLabel": {
+      "message": "Hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "Indonesia"
+   },
+   "translateToItalianLabel": {
+      "message": "Italia"
+   },
+   "translateToJapaneseLabel": {
+      "message": "Jepang"
+   },
+   "translateToKoreanLabel": {
+      "message": "Korea"
+   },
+   "translateToLabel": {
+      "message": "terjemahkan ke"
+   },
+   "translateToPolishLabel": {
+      "message": "Polandia"
+   },
+   "translateToPortugueseLabel": {
+      "message": "Portugis"
+   },
+   "translateToRussianLabel": {
+      "message": "Rusia"
+   },
+   "translateToSpanishLabel": {
+      "message": "Spanyol"
+   },
+   "translateToThaiLabel": {
+      "message": "Thailand"
+   },
+   "translateToVietnameseLabel": {
+      "message": "Vietnam"
+   },
+   "translationModel": {
+      "message": "penerjemah"
+   },
+   "translationPanelInstructions": {
+      "message": "Klik dan seret untuk membuat Panel Terjemahan.\n Semua gambar di bawahnya akan diterjemahkan secara otomatis.\n Tutupi SELURUH gambar, bukan hanya gelembung teksnya!"
+   },
+   "translationPanelLabel": {
+      "message": "panel terjemahan"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "Terjadi kesalahan yang tidak diketahui. Periksa koneksi internet Anda dan coba lagi sebentar lagi."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Buka terjemahan tanpa batas"
+   },
+   "upgradeButton": {
+      "message": "tingkatkan"
+   },
+   "uploadFilesLabel": {
+      "message": "atau %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "unggah file"
+   }
+}

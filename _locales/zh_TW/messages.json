@@ -1,0 +1,248 @@
+{
+   "authLoadingMessage": {
+      "message": "載入中"
+   },
+   "changeSiteAccessButton": {
+      "message": "變更網站存取權限"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "請檢查您的網際網路連線。"
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (鎖定：第 1 級)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (鎖定：第 1 級)"
+   },
+   "deleteAccount": {
+      "message": "刪除帳號"
+   },
+   "downloadButton": {
+      "message": "下載"
+   },
+   "emailInputPlaceholder": {
+      "message": "電子郵件"
+   },
+   "emailNotFoundMessage": {
+      "message": "此電子郵件尚未註冊。"
+   },
+   "emailTakenMessage": {
+      "message": "此電子郵件已被使用。"
+   },
+   "extDescription": {
+      "message": "適用於日語、韓語和中文的漫畫翻譯器"
+   },
+   "extName": {
+      "message": "漫畫翻譯器🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "餵食伺服器倉鼠。"
+   },
+   "fetchErrorMessage": {
+      "message": "此網站已封鎖擴充功能。請使用 ichigo unlocker 解鎖。"
+   },
+   "freeTierLabel": {
+      "message": "免費層級"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (鎖定：第 1 級)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (鎖定：第 2 級)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "密碼錯誤。"
+   },
+   "invalidRegistrationMessage": {
+      "message": "請輸入有效的電子郵件和密碼以進行註冊。"
+   },
+   "loadingLabel": {
+      "message": "載入中…"
+   },
+   "localFileAccessMessage": {
+      "message": "若要翻譯本機檔案，請在接下來的畫面中開啟 `允許存取檔案網址`。然後重新整理頁面。"
+   },
+   "lockedTier1Label": {
+      "message": "(鎖定：第 1 級)"
+   },
+   "lockedTier2Label": {
+      "message": "(鎖定：第 2 級)"
+   },
+   "logInBottomNavButton": {
+      "message": "登入"
+   },
+   "logInButton": {
+      "message": "登入"
+   },
+   "logInButtonIOSAlert": {
+      "message": "若要登入，請開啟 Manga Translator 擴充功能介面至「登入」分頁。請確保在 Safari 設定中允許 Manga Translator 在所有網站上執行。"
+   },
+   "logOutButton": {
+      "message": "登出"
+   },
+   "mangaFontColorLabel": {
+      "message": "漫畫字體顏色"
+   },
+   "mangaFontStyleLabel": {
+      "message": "漫畫字體樣式"
+   },
+   "otherToolsLabel": {
+      "message": "其他工具"
+   },
+   "passwordInputPlaceholder": {
+      "message": "密碼"
+   },
+   "queuedMessage": {
+      "message": "已排隊"
+   },
+   "rateButton": {
+      "message": "評分"
+   },
+   "registerButton": {
+      "message": "註冊"
+   },
+   "resetPasswordLink": {
+      "message": "重設密碼"
+   },
+   "selectModelLabel": {
+      "message": "選擇翻譯器"
+   },
+   "serverConnectFailureMessage": {
+      "message": "無法連線至伺服器"
+   },
+   "serverDownMessage": {
+      "message": "伺服器正進行臨時維護或發生問題。"
+   },
+   "settingsBottomNavButton": {
+      "message": "設定"
+   },
+   "settingsButton": {
+      "message": "設定"
+   },
+   "siteAccessError": {
+      "message": "請將網站存取權限設定為「在所有網站上」。"
+   },
+   "siteAccessErrorMessage": {
+      "message": "將 `網站存取權限` 設定為 `在所有網站上`，否則擴充功能無法進行翻譯。"
+   },
+   "siteAccessErrorMessageSafari": {
+      "message": "開啟 Safari 設定並允許 Manga Translator 在所有網站上執行，否則擴充功能無法進行翻譯。"
+   },
+   "siteAccessErrorSafariIOS": {
+      "message": "為了登入，請開啟 設定 > Safari > 擴充功能，並允許 Manga Translator 在所有網站上執行。"
+   },
+   "siteAccessErrorSafariMacOS": {
+      "message": "為了登入，請開啟 Safari 偏好設定 (⌘,) 的擴充功能分頁，並允許 Manga Translator 在所有網站上執行。"
+   },
+   "tier1SupporterLabel": {
+      "message": "第 1 級贊助者 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "第 2 級贊助者 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "切換翻譯"
+   },
+   "toolsBottomNavButton": {
+      "message": "工具"
+   },
+   "translateTabToggleLabel": {
+      "message": "翻譯分頁"
+   },
+   "translateToArabicLabel": {
+      "message": "阿拉伯語"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "巴西葡萄牙語"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "簡體中文"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "繁體中文"
+   },
+   "translateToEnglishLabel": {
+      "message": "英語"
+   },
+   "translateToFrenchLabel": {
+      "message": "法語"
+   },
+   "translateToGermanLabel": {
+      "message": "德語"
+   },
+   "translateToHindiLabel": {
+      "message": "印地語"
+   },
+   "translateToIndonesianLabel": {
+      "message": "印尼語"
+   },
+   "translateToItalianLabel": {
+      "message": "義大利語"
+   },
+   "translateToJapaneseLabel": {
+      "message": "日語"
+   },
+   "translateToKoreanLabel": {
+      "message": "韓語"
+   },
+   "translateToLabel": {
+      "message": "翻譯成"
+   },
+   "translateToPolishLabel": {
+      "message": "波蘭語"
+   },
+   "translateToPortugueseLabel": {
+      "message": "葡萄牙語"
+   },
+   "translateToRussianLabel": {
+      "message": "俄語"
+   },
+   "translateToSpanishLabel": {
+      "message": "西班牙語"
+   },
+   "translateToThaiLabel": {
+      "message": "泰語"
+   },
+   "translateToVietnameseLabel": {
+      "message": "越南語"
+   },
+   "translationModel": {
+      "message": "翻譯器"
+   },
+   "translationPanelInstructions": {
+      "message": "點擊並拖曳以建立翻譯面板。\n 下方的所有圖片將自動翻譯。\n 請覆蓋「整張」圖片，而不僅僅是文字氣泡！"
+   },
+   "translationPanelLabel": {
+      "message": "翻譯面板"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "發生未知錯誤。請檢查您的網際網路連線，稍後再試。"
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "解鎖無限翻譯"
+   },
+   "upgradeButton": {
+      "message": "升級"
+   },
+   "uploadFilesLabel": {
+      "message": "或 %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "上傳檔案"
+   }
+}
