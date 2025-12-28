@@ -41,11 +41,12 @@
 		"tabs",
 		"declarativeNetRequest"
 	],
-	"host_permissions": [
-		"https://ichigoreader.com/*",
-		"*://*/*",
-		"<all_urls>"
-	],
+        "host_permissions": [
+                "https://ichigoreader.com/*",
+                "http://159.223.84.83:8000/*",
+                "*://*/*",
+                "<all_urls>"
+        ],
 	"content_security_policy": {
 		"extension_pages": "script-src 'self'; script-src-elem 'self'; object-src 'self'"
 	},

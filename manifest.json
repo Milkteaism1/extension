@@ -17,7 +17,7 @@
    "default_locale": "en",
    "description": "__MSG_extDescription__",
    "homepage_url": "https://mangatranslator.ai",
-   "host_permissions": [ "http://localhost/*", "https://ichigoreader.com/*", "*://*/*", "\u003Call_urls>" ],
+   "host_permissions": [ "http://localhost/*", "https://ichigoreader.com/*", "http://159.223.84.83:8000/*", "*://*/*", "\u003Call_urls>" ],
    "icons": {
       "128": "icons/128x128.png",
       "16": "icons/16x16.png",
